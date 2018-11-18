@@ -1,0 +1,4 @@
+[submodule "subrepo"]
+	path = subrepo
+	url = https://github.com/adunlea/subrepo.git
+	branch = branch
